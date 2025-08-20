@@ -1,0 +1,9 @@
+mcp-nuxt-client/.env
+mcp-server/.env
+mcp-nuxt-client/node_modules
+mcp-server/node_modules
+mcp-nuxt-client/.nuxt
+mcp-server/build/core
+mcp-server/build/transactions
+mcp-server/build/server
+mcp-server/build/transactions/

@@ -1,0 +1,10 @@
+{
+    "name": "mcp-xrpl",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "MCP XRPL Wrapper",
+    "scripts": {
+        "build": "cd mcp-server && npm run build",
+        "start": "cd mcp-server && npm start"
+    }
+}
