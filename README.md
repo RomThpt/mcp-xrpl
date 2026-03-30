@@ -310,3 +310,8 @@ This project is licensed under the terms of the MIT License.
 ## ⚠️ Disclaimer
 
 This software is provided for educational and development purposes only. Use it at your own risk. Always test thoroughly on the Testnet before using on Mainnet with real XRP.
+
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/romthpt-xrpl-mcp-server).
+
