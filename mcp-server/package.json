@@ -11,14 +11,14 @@
         "build"
     ],
     "dependencies": {
-        "@modelcontextprotocol/sdk": "^1.27.1",
-        "dotenv": "^16.4.7",
-        "xrpl": "^4.2.0",
-        "zod": "^3.24.2"
+        "@modelcontextprotocol/sdk": "^1.29.0",
+        "dotenv": "^17.4.2",
+        "xrpl": "^4.6.0",
+        "zod": "^4.4.3"
     },
     "devDependencies": {
-        "@types/node": "^22.14.0",
-        "tsx": "^4.7.1",
-        "typescript": "^5.8.3"
+        "@types/node": "^25.9.1",
+        "tsx": "^4.22.3",
+        "typescript": "^6.0.3"
     }
 }
